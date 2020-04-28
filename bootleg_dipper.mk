@@ -23,3 +23,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="dipper"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+#select Bootanimation
+TARGET_PICK_BOOTANIMATION=8
